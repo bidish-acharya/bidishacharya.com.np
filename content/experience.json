@@ -1,0 +1,55 @@
+[
+  {
+    "role": "Independent Designer & Developer",
+    "company": "RhinoStats — Nepal Cricket Analytics Platform",
+    "dates": "2026 – Present",
+    "bullets": [
+      "Designed and shipped a data-rich analytics platform for Nepal's international cricket history, translating user and domain needs into product requirements, data models, and delivery priorities.",
+      "Built the React, Vite, Tailwind CSS, and Recharts frontend atop a Python/pandas data pipeline, handling incomplete datasets and cross-validating statistics against established sources."
+    ]
+  },
+  {
+    "role": "Product and Frontend Designer",
+    "company": "Sagacity GmbH",
+    "dates": "05/2025 – 09/2025",
+    "bullets": [
+      "First in-house designer at an early-stage AI startup; led end-to-end design of a B2B learning platform from discovery to high-fidelity Figma delivery.",
+      "Designed course and activity creation workflows and competency dashboards; redesigned the company website, lifting GTmetrix score from 57 to 94."
+    ]
+  },
+  {
+    "role": "UX, UI, and Interaction Designer",
+    "company": "Robert Bosch Power Tools",
+    "dates": "03/2024 – 08/2024",
+    "bullets": [
+      "Conducted a heuristic evaluation of the Bosch DIY app (1M+ monthly users) and redesigned navigation and UX copy, contributing to an app store rating rise from 4.24 to 4.41.",
+      "Designed data-driven Backoffice dashboards and the DIY e-commerce experience across mobile, tablet, and desktop."
+    ]
+  },
+  {
+    "role": "UI/UX Designer",
+    "company": "TOMRA Sorting GmbH",
+    "dates": "10/2021 – 09/2023",
+    "bullets": [
+      "Designed and prototyped a Help Section targeted to reduce support requests and improve self-service.",
+      "Used Google Analytics and Hotjar heatmap/session analysis to identify workflow bottlenecks feeding design iterations."
+    ]
+  },
+  {
+    "role": "Creative Design & Tech Lead",
+    "company": "Research & Development Team — Deerwalk Education Group",
+    "dates": "06/2018 – 03/2021",
+    "bullets": [
+      "Led end-to-end product design and frontend development for an e-learning platform serving 3M+ users across mobile, web, offline, and television.",
+      "Acted as product owner across projects, writing user stories and planning sprints; shipped 10+ web projects hands-on."
+    ]
+  },
+  {
+    "role": "Associate Creative Designer",
+    "company": "Deerwalk Inc.",
+    "dates": "08/2016 – 05/2018",
+    "bullets": [
+      "Contributed UI/UX improvements to US healthcare applications and built internal tools using HTML, CSS, JavaScript, and WordPress."
+    ]
+  }
+]
